@@ -1,0 +1,18 @@
+{
+  "item.illustratedbooks.illustrated_book": "Иллюстрированная книга",
+  "illustratedbooks.text": "Текст страницы",
+  "illustratedbooks.path": "Путь к PNG, до 4096 × 4096",
+  "illustratedbooks.load": "Загрузить PNG",
+  "illustratedbooks.clear": "Убрать картинку",
+  "illustratedbooks.page": "Страница %s / %s",
+  "illustratedbooks.drop": "Перетащите PNG на книгу",
+  "illustratedbooks.saved": "Сохранено на сервере",
+  "illustratedbooks.cleared": "Картинка убрана",
+  "illustratedbooks.denied": "Книга переместилась. Откройте её заново.",
+  "illustratedbooks.bad_png": "Нужен PNG до 4096 × 4096.",
+  "illustratedbooks.busy": "Дождитесь текущей загрузки.",
+  "illustratedbooks.io_error": "Ошибка передачи. Попробуйте ещё раз.",
+  "illustratedbooks.loading": "Проверка картинки…",
+  "illustratedbooks.one_png": "Перетащите один PNG.",
+  "illustratedbooks.progress": "Загружено %s%%"
+}

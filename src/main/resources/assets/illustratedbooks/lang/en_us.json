@@ -1,0 +1,18 @@
+{
+  "item.illustratedbooks.illustrated_book": "Illustrated Book",
+  "illustratedbooks.text": "Page text",
+  "illustratedbooks.path": "PNG path, up to 4096 × 4096",
+  "illustratedbooks.load": "Upload PNG",
+  "illustratedbooks.clear": "Remove image",
+  "illustratedbooks.page": "Page %s / %s",
+  "illustratedbooks.drop": "Drop a PNG onto this book",
+  "illustratedbooks.saved": "Saved on the server",
+  "illustratedbooks.cleared": "Image removed",
+  "illustratedbooks.denied": "The book moved. Open it again.",
+  "illustratedbooks.bad_png": "Use a valid PNG up to 4096 × 4096.",
+  "illustratedbooks.busy": "Another upload is active.",
+  "illustratedbooks.io_error": "Transfer failed. Try again.",
+  "illustratedbooks.loading": "Validating image…",
+  "illustratedbooks.one_png": "Drop one PNG at a time.",
+  "illustratedbooks.progress": "Uploading %s%%"
+}
